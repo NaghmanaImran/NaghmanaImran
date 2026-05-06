@@ -66,5 +66,5 @@ https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364
 
 <!-- 🔥 BOTTOM ANIMATED WAVE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Naghmana%20Imran&fontColor=ffffff&fontSize=35"/>
 </p>
